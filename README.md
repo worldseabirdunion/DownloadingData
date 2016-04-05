@@ -5,8 +5,8 @@ When pushing to this repository, please name and your top level folder with your
 
 E.G., "granthumphries_ECMWFdownload_Python"
 
-Please comment your code as much as possible using the appropriate comment tags.
-E.G., 
+Please comment your code as much as possible using the appropriate comment tags.  
+E.G.,   
 R
 ```R
   # This code is for printing hello
