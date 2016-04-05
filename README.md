@@ -7,16 +7,19 @@ E.G., "granthumphries_ECMWFdownload_Python"
 
 Please comment your code as much as possible using the appropriate comment tags.
 E.G., 
-'''r
+
+```R
   # This code is for printing hello
   print("hello")
+```
   
-'''python
+```python
   # This code is for printing hello
   print "hello"
+```
 
-'''javascript
+```javascript
   // This code is for printing hello
   alert("hello")
-
+```
 
